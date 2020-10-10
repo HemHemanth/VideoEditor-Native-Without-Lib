@@ -38,6 +38,7 @@
         android:orientation="horizontal"
         android:gravity="center"
         android:layout_above="@id/effects"
+        android:visibility="gone"
         >
         <Button
             android:id="@+id/point25"
